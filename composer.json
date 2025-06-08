@@ -1,5 +1,5 @@
 {
-  "name": "hadder/nfse-govbr",
+  "name": "dermarios/nfse-govbr",
   "description": "Pacote para geração de NFSe Dueto (Cachoeira do Sul) usando componentes NFePHP (https://github.com/nfephp-org)",
   "keywords": [
     "nfse-govbr",
