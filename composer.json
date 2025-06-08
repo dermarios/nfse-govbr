@@ -33,7 +33,7 @@
     "ext-curl": "*",
     "ext-simplexml": "*",
     "ext-gd": "*",
-    "league/flysystem": "^1.1",
+    "league/flysystem": "^3.25.1",
     "justinrainbow/json-schema": "^5.2",
     "respect/validation": "^2.2",
     "ext-bcmath": "*"
