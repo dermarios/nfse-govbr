@@ -8,7 +8,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "HaDDeR\\NfseGovbr\\": "src/"
+      "dermarios\\NfseGovbr\\": "src/"
     },
     "files": [
       "Helpers.php"
@@ -16,8 +16,8 @@
   },
   "authors": [
     {
-      "name": "Fernando Friedrich",
-      "email": "fernando@hadder.com.br"
+      "name": "Mário Silveira",
+      "email": "dermarios@gmail.com"
     }
   ],
   "minimum-stability": "dev",
