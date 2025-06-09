@@ -1,12 +1,12 @@
 <?php
 
-namespace HaDDeR\NfseGovbr\Common;
+namespacedermarios\NfseGovbr\Common;
 
 /**
  * Auxiar Tools Class for comunications with NFSe webserver in Nacional Standard
  *
  * @category  NFePHP
- * @package   HaDDeR\NfseGovbr
+ * @package  dermarios\NfseGovbr
  * @copyright NFePHP Copyright (c) 2020
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT
@@ -17,8 +17,8 @@ namespace HaDDeR\NfseGovbr\Common;
 
 use DOMDocument;
 use Exception;
-use HaDDeR\NfseGovbr\Common\Soap\SoapCurl;
-use HaDDeR\NfseGovbr\Common\Soap\SoapInterface;
+usedermarios\NfseGovbr\Common\Soap\SoapCurl;
+usedermarios\NfseGovbr\Common\Soap\SoapInterface;
 use NFePHP\Common\Certificate;
 
 class Tools

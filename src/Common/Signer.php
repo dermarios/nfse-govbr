@@ -1,6 +1,6 @@
 <?php
 
-namespace HaDDeR\NfseGovbr\Common;
+namespacedermarios\NfseGovbr\Common;
 
 /**
  * Class to signner a Xml
@@ -15,7 +15,7 @@ namespace HaDDeR\NfseGovbr\Common;
  *     e sped-esfinge
  *
  * @category  NFePHP
- * @package   HaDDeR\NfseGovbr\Signer
+ * @package  dermarios\NfseGovbr\Signer
  * @copyright NFePHP Copyright (c) 2020
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT

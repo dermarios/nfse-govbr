@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 'On');
 include __DIR__ . '/../vendor/autoload.php';
 
-use HaDDeR\NfseGovbr\Danfse\Danfse;
+usedermarios\NfseGovbr\Danfse\Danfse;
 
 try {
     //Considerando que praticamente nenhuma prefeitura implementa a tag de nome da cidade, uma das soluções é informar os códigos IBGEs envolvidos

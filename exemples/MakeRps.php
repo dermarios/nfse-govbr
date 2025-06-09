@@ -4,8 +4,8 @@ ini_set('display_errors', 'On');
 include __DIR__ . '/../vendor/autoload.php';
 
 use Carbon\Carbon;
-use HaDDeR\NfseGovbr\Rps;
-use HaDDeR\NfseGovbr\Tools;
+usedermarios\NfseGovbr\Rps;
+usedermarios\NfseGovbr\Tools;
 use NFePHP\Common\Certificate;
 
 try {
@@ -47,7 +47,7 @@ try {
     $std->Servico->IssRetido = 2;//1 - Sim, 2 - Não
     $std->Servico->ItemListaServico = '00.00'; //Consultar na prefeitura
     $std->Servico->CodigoTributacaoMunicipio = '0000000'; //Consultar na prefeitura
-    $std->Servico->Discriminacao = 'TESTE DE EMISSÃO NFSe Cachoeira do Sul - Hadder Soft';
+    $std->Servico->Discriminacao = 'TESTE DE EMISSÃO NFSe Cachoeira do Sul -dermarios Soft';
 //    $std->Servico->CodigoMunicipio = '4303004'; //IBGE
     $std->Servico->CodigoMunicipio = '2408102'; //IBGE
     $std->Servico->CodigoPais = '1058';

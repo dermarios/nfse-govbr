@@ -1,12 +1,12 @@
 <?php
 
-namespace HaDDeR\NfseGovbr;
+namespacedermarios\NfseGovbr;
 
 /**
  * Simple interface to RPS Class
  *
  * @category  NFePHP
- * @package   HaDDeR\NfseCoplan
+ * @package  dermarios\NfseCoplan
  * @copyright NFePHP Copyright (c) 2020
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT

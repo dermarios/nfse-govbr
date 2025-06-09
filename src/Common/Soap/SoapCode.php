@@ -1,6 +1,6 @@
 <?php
 
-namespace HaDDeR\NfseGovbr\Common\Soap;
+namespacedermarios\NfseGovbr\Common\Soap;
 
 /**
  * SoapCode return a description os HTTP Codes returned from server
@@ -9,7 +9,7 @@ namespace HaDDeR\NfseGovbr\Common\Soap;
  * The codes and their descriptions are stored in a json file in the same folder
  *
  * @category  NFePHP
- * @package   HaDDeR\NfseGovbr
+ * @package  dermarios\NfseGovbr
  * @copyright NFePHP Copyright (c) 2020
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT

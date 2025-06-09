@@ -1,12 +1,12 @@
 <?php
 
-namespace HaDDeR\NfseGovbr\Common\Soap;
+namespacedermarios\NfseGovbr\Common\Soap;
 
 /**
  * Soap fake class used for development only
  *
  * @category  NFePHP
- * @package   HaDDeR\NfseGovbr
+ * @package  dermarios\NfseGovbr
  * @copyright NFePHP Copyright (c) 2020
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT

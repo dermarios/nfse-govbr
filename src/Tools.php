@@ -1,6 +1,6 @@
 <?php
 
-namespace HaDDeR\NfseGovbr;
+namespacedermarios\NfseGovbr;
 
 /**
  * Classe de comunicação com NFSe
@@ -9,7 +9,7 @@ namespace HaDDeR\NfseGovbr;
 
 use DOMDocument;
 use Exception;
-use HaDDeR\NfseGovbr\Common\Tools as BaseTools;
+usedermarios\NfseGovbr\Common\Tools as BaseTools;
 use NFePHP\Common\Certificate;
 use NFePHP\Common\Validator;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace HaDDeR\NfseGovbr\Danfse;
+namespacedermarios\NfseGovbr\Danfse;
 
 use Exception;
 use NFePHP\Common\DOMImproved as Dom;
