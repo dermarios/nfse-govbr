@@ -1,6 +1,6 @@
 <?php
 
-namespacedermarios\NfseGovbr\Common;
+namespace dermarios\NfseGovbr\Common;
 
 /**
  * Class to signner a Xml

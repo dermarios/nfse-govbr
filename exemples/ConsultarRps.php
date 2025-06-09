@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 'On');
 include __DIR__ . '/../vendor/autoload.php';
 
-usedermarios\NfseGovbr\Tools;
+use dermarios\NfseGovbr\Tools;
 use NFePHP\Common\Certificate;
 
 try {

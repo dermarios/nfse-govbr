@@ -1,6 +1,6 @@
 <?php
 
-namespacedermarios\NfseGovbr\Common;
+namespace dermarios\NfseGovbr\Common;
 
 /**
  * Class FakePretty shows event and fake comunication data

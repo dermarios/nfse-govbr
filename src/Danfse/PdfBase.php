@@ -1,6 +1,6 @@
 <?php
 
-namespacedermarios\NfseGovbr\Danfse;
+namespace dermarios\NfseGovbr\Danfse;
 
 use TCPDF;
 use TCPDF_FONTS;

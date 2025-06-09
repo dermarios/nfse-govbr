@@ -1,6 +1,6 @@
 <?php
 
-namespacedermarios\NfseGovbr;
+namespace dermarios\NfseGovbr;
 
 /**
  * Simple interface to RPS Class

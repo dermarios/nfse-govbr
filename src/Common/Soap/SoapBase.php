@@ -1,6 +1,6 @@
 <?php
 
-namespacedermarios\NfseGovbr\Common\Soap;
+namespace dermarios\NfseGovbr\Common\Soap;
 
 /**
  * Soap base class

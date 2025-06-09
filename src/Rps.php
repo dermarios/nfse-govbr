@@ -1,6 +1,6 @@
 <?php
 
-namespacedermarios\NfseGovbr;
+namespace dermarios\NfseGovbr;
 
 /**
  * Class for RPS construction and validation of data

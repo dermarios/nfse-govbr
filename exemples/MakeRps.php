@@ -4,8 +4,8 @@ ini_set('display_errors', 'On');
 include __DIR__ . '/../vendor/autoload.php';
 
 use Carbon\Carbon;
-usedermarios\NfseGovbr\Rps;
-usedermarios\NfseGovbr\Tools;
+use dermarios\NfseGovbr\Rps;
+use dermarios\NfseGovbr\Tools;
 use NFePHP\Common\Certificate;
 
 try {

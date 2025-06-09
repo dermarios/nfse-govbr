@@ -1,6 +1,6 @@
 <?php
 
-namespacedermarios\NfseGovbr\Common\Soap;
+namespace dermarios\NfseGovbr\Common\Soap;
 
 /**
  * SoapCode return a description os HTTP Codes returned from server

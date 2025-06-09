@@ -1,6 +1,6 @@
 <?php
 
-namespacedermarios\NfseGovbr\Common;
+namespace dermarios\NfseGovbr\Common;
 
 /**
  * Auxiar Tools Class for comunications with NFSe webserver in Nacional Standard
@@ -17,8 +17,8 @@ namespacedermarios\NfseGovbr\Common;
 
 use DOMDocument;
 use Exception;
-usedermarios\NfseGovbr\Common\Soap\SoapCurl;
-usedermarios\NfseGovbr\Common\Soap\SoapInterface;
+use dermarios\NfseGovbr\Common\Soap\SoapCurl;
+use dermarios\NfseGovbr\Common\Soap\SoapInterface;
 use NFePHP\Common\Certificate;
 
 class Tools
